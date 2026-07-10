@@ -1,0 +1,6 @@
+{
+  "name": "Mahabharata - The Cinematic Epic",
+  "description": "An immersive cinematic and interactive storytelling website about the Mahabharata, featuring historical timelines, interactive character galleries, deep family trees, weapons showcases, and the wisdom of the Bhagavad Gita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
